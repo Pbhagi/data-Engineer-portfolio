@@ -6,9 +6,9 @@
 Engineered large-scale data pipelines powering recommendation systems and experimentation platforms processing billions of user events daily.
 
 ## Impact
--Processed billions of events/day,
--Built low-latency feature pipelines,
--Enabled large-scale A/B testing analytics,
+Processed billions of events/day,
+Built low-latency feature pipelines,
+Enabled large-scale A/B testing analytics,
 
 ## Key Contributions
 -Built high-throughput batch & streaming pipelines using Spark (EMR) and Kafka to process billions of daily user interactions
