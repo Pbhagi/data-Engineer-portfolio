@@ -1,23 +1,16 @@
-# Healthcare Data Pipeline & Dashboard Optimization (Accenture)
+## Healthcare Data Warehouse Modernization (Accenture)
+## Overview
 
-## Problem
-Healthcare data was inconsistent, duplicated, and slow for analytics.
+Built and optimized ETL pipelines for healthcare analytics, improving data quality, performance, and reporting reliability.
 
-## Data
-- Claims, EHR, lab data
-- AWS Redshift, S3, Glue
+## Key Contributions
+-Developed ETL pipelines using AWS Glue & PySpark to process claims, EHR, and lab data
+-Improved data readiness by 35% across clinical and billing analytics workflows
+-Reduced duplicate patient records by 40% through data cleansing and standardization
+-Migrated 3TB+ data from on-prem to AWS Redshift, improving query performance by 45%
+-Automated workflows using Apache Airflow, reducing execution time by 28%
+-Monitored pipelines using CloudWatch, reducing downtime by 30%
+-Delivered enhancements through Agile workflows with CI/CD and version control
+## Tech Stack
 
-## What I Did
-- Built ETL pipelines using SQL, PySpark, AWS Glue
-- Cleaned and standardized patient data
-- Reduced duplicates using Python (Pandas)
-- Built Power BI dashboards
-
-## Dashboard Overview
-
-Developed Power BI dashboards to track patient data, operational metrics, and reporting performance. Enabled clinical teams to monitor trends and improve decision-making efficiency.
-
-## Impact
-- Reduced duplicate records by 40%
-- Improved query performance by 45%
-- Faster and more reliable reporting
+AWS Glue | Redshift | S3 | PySpark | Airflow | Python | SQL
