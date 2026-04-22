@@ -2,11 +2,52 @@
 
 Hi! I am a Data Engineer with experience at CVS, Meta, and Accenture.
 
-## Skills
-- SQL
-- Python
-- Power BI, Tableau
-- AWS, GCP
+## 🛠️ Skills
+
+### 💻 Programming & Data Processing
+
+* Python (PySpark, Pandas, NumPy), SQL, Scala, Bash
+* Apache Spark, Apache Beam, Apache Flink
+
+### ☁️ Cloud & Big Data Platforms
+
+* **AWS**: S3, EMR, Glue, Redshift, Lambda, Kinesis, Athena
+* **GCP**: BigQuery, Dataflow, Pub/Sub, Cloud Storage, Dataproc
+* **Azure**: Data Factory, ADLS, Databricks
+
+### 🔄 Data Engineering & Pipelines
+
+* ETL/ELT Design, Data Pipelines (Batch & Streaming)
+* Apache Airflow, Kafka, dbt, Fivetran
+* Data Modeling (Star, Snowflake, Medallion Architecture)
+* CDC, Schema Evolution, Data Partitioning & Optimization
+
+### 🗄️ Databases & Storage
+
+* PostgreSQL, MySQL, MongoDB, Cassandra, DynamoDB, Redis
+* Delta Lake, Snowflake, Data Warehousing
+
+### 📊 Analytics & Visualization
+
+* Tableau, Power BI, Looker
+
+### 🔐 Security & Governance
+
+* IAM, RBAC, Data Masking, Encryption
+* HIPAA, GDPR, SOC 2 Compliance
+
+### ⚙️ DevOps & Infrastructure
+
+* Terraform, Docker, Kubernetes
+* CI/CD Pipelines, Git
+
+### 🎯 Core Strengths
+
+* Building scalable data platforms
+* Real-time data processing
+* Data quality & reliability engineering
+* Performance optimization at scale
+
 
 - ## 🚀 Projects
 
