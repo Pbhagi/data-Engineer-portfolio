@@ -1,6 +1,6 @@
 # Bhargavi Reddy – Data Engineer Portfolio
 
-Hi! I am a Data Analyst with experience at CVS, Meta, and Accenture.
+Hi! I am a Data Engineer with experience at CVS, Meta, and Accenture.
 
 ## Skills
 - SQL
