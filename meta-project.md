@@ -11,11 +11,9 @@ Product teams needed insights into user engagement and experiment performance.
 - Wrote SQL queries for large-scale data analysis
 - Built feature tables using Spark (EMR)
 - Created A/B testing pipelines (CTR, retention)
+## Dashboard Overview
 
-## Dashboard / Analysis
-- Engagement trends by region
-- Time-decay metrics for content performance
-- Experiment performance tracking
+Built analytical reports and dashboards to track user engagement metrics like CTR, retention, and watch time. Enabled product teams to analyze trends and evaluate experiment performance.
 
 ## Impact
 - Supported product and ML teams
