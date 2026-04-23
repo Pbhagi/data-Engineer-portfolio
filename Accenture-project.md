@@ -1,21 +1,43 @@
-## Healthcare Data Warehouse Modernization (Accenture)
-## Overview
+# Healthcare Data Pipeline & ETL System
 
-Built and optimized ETL pipelines for healthcare analytics, improving data quality, performance, and reporting reliability.
+## 📌 Overview
+Built scalable ETL pipelines for processing healthcare data including patient records, claims, and lab data. Focused on improving data quality, performance, and reporting efficiency.
 
-## Impact
-Improved data readiness by 35%,
-Reduced duplicate records by 40%,
-Increased query performance by 45%,
+## 🎯 Objectives
+- Clean and standardize healthcare data
+- Build scalable ETL pipelines
+- Improve reporting performance
+- Reduce data duplication
 
-## Key Contributions
--Developed ETL pipelines using AWS Glue & PySpark to process claims, EHR, and lab data
--Improved data readiness by 35% across clinical and billing analytics workflows
--Reduced duplicate patient records by 40% through data cleansing and standardization
--Migrated 3TB+ data from on-prem to AWS Redshift, improving query performance by 45%
--Automated workflows using Apache Airflow, reducing execution time by 28%
--Monitored pipelines using CloudWatch, reducing downtime by 30%
--Delivered enhancements through Agile workflows with CI/CD and version control
-## Tech Stack
+## 🛠️ Tech Stack
+- Python (Pandas, PySpark)
+- SQL
+- AWS (Glue, Redshift, S3)
+- Apache Airflow
+- PostgreSQL
 
-AWS Glue | Redshift | S3 | PySpark | Airflow | Python | SQL
+## 📊 Key Features
+- Built ETL pipelines using AWS Glue and PySpark
+- Reduced duplicate records by 40%
+- Migrated 3+ TB data to Redshift
+- Optimized queries improving performance by 45%
+- Automated workflows using Airflow
+
+## 🔄 Data Pipeline Flow
+1. Data ingestion from EHR and claims systems
+2. Data cleaning and transformation
+3. Deduplication and validation
+4. Storage in Redshift
+5. Reporting via Power BI
+
+## 📈 Impact
+- Improved data readiness by 35%
+- Reduced pipeline downtime by 30%
+- Enabled faster analytics for healthcare teams
+
+## 📷 Sample Architecture Diagram
+(Add architecture diagram here)
+
+## 🚀 Future Improvements
+- Implement real-time streaming pipelines
+- Add data governance layer
